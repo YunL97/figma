@@ -110,3 +110,6 @@
 * 모방을 할때는 오래되고 낡은 웹디자인을 모방하면 안된다
 * www.dribbble.com: 최신 웹사이트를 보여준다
 * 무드보드: 디자이너들이 영감을 주는 작품을 모은것
+* 피그마 리소스 찾는곳
+  * SketchAppResources.com
+  * SketchRepo.com
